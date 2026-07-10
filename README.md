@@ -1,4 +1,4 @@
-# Hi there, I'm Preethi Sri 👋
+# Hi there, I'm Preethi Sri 
 
 ## Java Full Stack Developer | Fresher
 
